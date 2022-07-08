@@ -7,6 +7,6 @@
 - 📫 How to reach me: stefanchen9@gmail.com
 - ⚡ Pronouns: He/Him
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Stefan&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Stefan&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Stefan&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
