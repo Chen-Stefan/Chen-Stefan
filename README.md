@@ -1,4 +1,4 @@
-### I am currently looking for software development internships 👋
+### Currently looking for software development internships in Vancouver, Canada 👋
 
 - 🔭 I’m currently working on a full-stack E-commerce project
 - 🌱 I’m currently learning how to use React with TypeScript
