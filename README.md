@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=4F5AF7&lines=Looking+for+software+dev+intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=448BF7&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a full-stack E-commerce project
 - 🌱 I’m currently learning how to use React with TypeScript
@@ -7,7 +7,7 @@
 - 📫 How to reach me: stefanchen9@gmail.com
 - ⚡ Pronouns: He/Him
 
-### Languages and Tools
+## Languages and Tools
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -28,8 +28,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
-### Github Status
-<hr />
+## Github Status
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Stefan&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
