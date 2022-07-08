@@ -1,15 +1,11 @@
-### Hi there I'm looking for software jobs 👋
+### I am currently looking for software development internships 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Bonfire project
-- 🌱 I’m currently learning how to use SQL
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a full-stack E-commerce project
+- 🌱 I’m currently learning how to use React with TypeScript
+- 👯 I’m looking to collaborate on hackathons
+- 😄 Ask me about international politics and Chinese culture
+- 📫 How to reach me: stefanchen9@gmail.com
+- ⚡ Pronouns: He/Him
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Stefan&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
