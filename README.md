@@ -1,6 +1,5 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Looking+for+software+development+intern;Second+line+of+text](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=336DF7&lines=Welcome+to+my+profile;Looking+for+SDE+intern+starting+Jan+2023)](https://git.io/typing-svg)
 - 🔭 I’m currently working on a full-stack E-commerce project
 - 🌱 I’m currently learning how to use React with TypeScript
 - 👯 I’m looking to collaborate on hackathons
