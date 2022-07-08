@@ -1,4 +1,6 @@
-### Currently looking for software development internships in Vancouver, Canada 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Currently looking for software development internships in Vancouver, Canada;Second+line+of+text)](https://git.io/typing-svg)
+
+
 
 - 🔭 I’m currently working on a full-stack E-commerce project
 - 🌱 I’m currently learning how to use React with TypeScript
