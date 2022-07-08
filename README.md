@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Looking+for+software+development+intern;Welcome](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Looking+for+software+development+intern;Second+line+of+text](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on a full-stack E-commerce project
 - 🌱 I’m currently learning how to use React with TypeScript
