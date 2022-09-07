@@ -2,7 +2,7 @@
 
 - 👯 I’m looking for a Software Dev Internship opportunity!
 - 🔭 I’m currently learning Objected Oriented Programming with Java
-- 🌱 I’m currently learning how to use React with TypeScript
+- 🌱 I’m currently practicing how to use React with TypeScript
 - 😄 Ask me anything about international relations and Chinese history & Culture
 - 📫 How to reach me: stefanchen9@gmail.com
 - ⚡ Pronouns: He/Him
