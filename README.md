@@ -27,7 +27,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 ## Github Status
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-Stefan&theme=default&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
